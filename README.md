@@ -7,8 +7,8 @@ Cara menjalankan program:
 3. Tuliskan 'npm run dev' pada terminal untuk menjalankan website.
 4. Website dapat diakses pada localhost:3000
 
-Bonus yang dikerjakan adalah Deployment, yang dapat diakses pada link berikut:
-Selain itu website ini dibuat dengan desain yang responsif, meskipun tidak terlalu rapi, serta dibuat sekreatif mungkin oleh pembuat.
+Bonus yang dikerjakan adalah Deployment, yang dapat diakses pada link berikut: https://kefas-porto.vercel.app/
+Selain itu website ini dibuat dengan desain yang responsif untuk layar yang lebih kecil seperti mobile phone, meskipun tidak terlalu rapi dan masih ada kekurangan. Website ini dibuat sekreatif mungkin oleh pembuat.
 Bonus penggunaan basis data atau CMS belum dibuat karena belum mempelajari lebih dalam.
 
 Dalam pengerjaan, kesulitan yang dihadapi adalah adaptasi dengan sebuah ranah baru yang belum pernah disentuh sama sekali, tetapi ternyata cukup menyenangkan.
