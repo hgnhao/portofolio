@@ -17,14 +17,14 @@ const Header = () => {
     <section className="grid grid-cols-1 lg:grid-cols-12 gap-4 lg:gap-0 px-4 lg:px-0">
       <div className="col-span-1 lg:col-span-7 flex flex-col justify-center items-center lg:items-start text-center lg:text-left">
         <p className="text-2xl font-bold text-[#F5F5F5] mb-2">
-          What's up Internet! My name is
+          What&apos;s up Internet! My name is
         </p>
         <h1 className="text-[#F5F5F5] mb-4 text-4xl lg:text-6xl font-extrabold">
           <span className='text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600 mr-4'>
             Kefas Kurnia Jonathan
           </span>
           <p className="text-3xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600 mt-2">
-            <span className="mr-2 text-2xl text-white font-bold">and I'm</span>
+            <span className="mr-2 text-2xl text-white font-bold">and I&apos;m</span>
             <TypeAnimation
               sequence={[
                 'a Frontend Developer',
@@ -44,7 +44,7 @@ const Header = () => {
           </p>
         </h1>
         <p data-aos="fade-left" className="text-[#b0b0b0] lg:text-xl mb-6 text-transparent bg-clip-text bg-gradient-to-r from-gray-400 to-white">
-          I am a passionate developer who loves to code and solve problems. Also a self-taught developer who loves to learn new things and always up for a challenge. Currently I'm studying Computer Science at Institut Teknologi Bandung as a third-semester student. I'm planning on becoming a Software Engineer in the future, and I hope I can make a positive impact on the world with my skills.
+          I am a passionate developer who loves to code and solve problems. Also a self-taught developer who loves to learn new things and always up for a challenge. Currently I&apos;m studying Computer Science at Institut Teknologi Bandung as a third-semester student. I&apos;m planning on becoming a Software Engineer in the future, and I hope I can make a positive impact on the world with my skills.
         </p>
         <div className="flex flex-col sm:flex-row gap-4 sm:gap-0 items-center w-full">
           <button

@@ -11,8 +11,8 @@ const Achievements = () => {
 
         <div className="lg:px-52 px-8">
             <p className="justify-center text-justify text-transparent bg-clip-text bg-gradient-to-r from-gray-200 to-gray-400">
-        Throughout my journey, I’ve had the chance to dive into some pretty cool organizations where I got to learn, lead, and collaborate with amazing people. Whether it was brainstorming ideas, tackling challenges head-on, or just being part of a team with a shared goal, each experience has shaped me in some way. 
-        Here’s a glimpse into the roles and moments that have defined my growth:
+        Throughout my journey, I&apos;ve had the chance to dive into some pretty cool organizations where I got to learn, lead, and collaborate with amazing people. Whether it was brainstorming ideas, tackling challenges head-on, or just being part of a team with a shared goal, each experience has shaped me in some way. 
+        Here&apos;s a glimpse into the roles and moments that have defined my growth:
             </p>
         </div>
 
@@ -39,15 +39,15 @@ const Achievements = () => {
             Best Public Relations Staff at the STEI-K 23 Student Executive Board <span className="text-white">(2023-2024)</span>
             </h1>
             <p className="mt-2 text-transparent bg-clip-text bg-gradient-to-r from-white to-gray-50">
-            Recognized as the top Public Relations staff member for my role in the STEI-K 23 Student Executive Board. This accolade highlights my skills in managing communication and enhancing the organization's public image. It reflects my ability to build strong relationships, effectively promote events, and contribute to the board’s overall success.            </p>
+            Recognized as the top Public Relations staff member for my role in the STEI-K 23 Student Executive Board. This accolade highlights my skills in managing communication and enhancing the organization&apos;s public image. It reflects my ability to build strong relationships, effectively promote events, and contribute to the board’s overall success.            </p>
         </div>
 
         <div className="lg:px-52 px-8 mt-8 text-justify">
             <h1 className="font-bold lg:text-3xl text-xl text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600 ">
-            Head of Public Relations Division for Malam Keakraban STEI-K 23 'STEI-Kesyen' <span className="text-white">(2023-2024)</span>
+            Head of Public Relations Division for Malam Keakraban STEI-K 23 &apos;STEI-Kesyen&apos; <span className="text-white">(2023-2024)</span>
             </h1>
             <p className="mt-2 text-transparent bg-clip-text bg-gradient-to-r from-white to-gray-50">
-            Led the Public Relations Division for the Malam Keakraban STEI-K 23 event, known as 'STEI-Kesyen.' In this role, I was responsible for managing all communications and promotional activities, ensuring the event was well-publicized and well-received. My efforts included coordinating with various stakeholders, crafting effective messages, and overseeing the overall PR strategy to enhance the event's success and impact.            </p>
+            Led the Public Relations Division for the Malam Keakraban STEI-K 23 event, known as &apos;STEI-Kesyen.&apos; In this role, I was responsible for managing all communications and promotional activities, ensuring the event was well-publicized and well-received. My efforts included coordinating with various stakeholders, crafting effective messages, and overseeing the overall PR strategy to enhance the event&apos;s success and impact.            </p>
         </div>
 
     </div>
